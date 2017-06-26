@@ -1,0 +1,11 @@
+#Example by SVN in eplipse
+https://weka.wikispaces.com/Weka+Examples
+
+#Example in Java, weka.wikispaces.com
+https://weka.wikispaces.com/Use+WEKA+in+your+Java+code
+
+#Reference of Weke Lib/Packages
+http://weka.sourceforge.net/doc.stable-3-8/
+
+#WEKA GUI connect with mysql DB
+http://wekadatabasecon.blogspot.kr/2014/02/how-to-connect-mysql-database-with-weka.html
