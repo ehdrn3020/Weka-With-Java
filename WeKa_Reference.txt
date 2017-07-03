@@ -9,3 +9,6 @@ http://weka.sourceforge.net/doc.stable-3-8/
 
 #WEKA GUI connect with mysql DB
 http://wekadatabasecon.blogspot.kr/2014/02/how-to-connect-mysql-database-with-weka.html
+
+#WEKA AV Learn from youtube
+https://github.com/nsadawi/WEKA-API
